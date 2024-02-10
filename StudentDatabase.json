@@ -1,0 +1,22 @@
+{
+    "2003": {
+        "firstName": "Mohaned",
+        "grade": 100.0,
+        "id": 24160001,
+        "lastName": "Sherhan",
+        "level": 1,
+        "major": "IT",
+        "marks": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        "totalMarks": 600
+    },
+    "idNumber": 1,
+    "lastKey": 2003,
+    "numberOfStudents": 1
+}

@@ -1,0 +1,48 @@
+    _____________________________ This Program is Open Source _______________________________
+
+    About The Programmer:
+        Hi my name is `Mohaned Sharhan` and I am the develpor of this program.
+        I was asked to build this program as a final exam for the first year
+        at the university.
+
+        It took nearly seven hours of coding.
+        I have completed in 2024-01-29 09:11 PM.
+
+        * You can find me on GetHub : https://github.com/Mohaned2023
+
+    About The Program :
+        This program is a simple manegement program that manages student data
+        and save it to the database *(JSON file).
+
+        * It is a simple program, it has a lot of problems.
+
+     _______________________________________ Features _______________________________________
+
+     |-> 1) Add a new student :
+     |    |_  This Feature use for adding a new student recored to the database *(JSON File).
+     |
+     |-> 2) Search For a Student :
+     |    |_  This Feature use for searching for the student on the database *(JSON File)
+     |    |_  You can search by name of student and the ID.
+     |    |_  * The name has a problem.
+     |    |_  * You can use ID it is trusted.
+     |
+     |-> 3) Edit Studetn Recored :
+     |    |_  This Feature use for edit the recored of the student.
+     |    |_  * You can select the student by ID.
+     |
+     |-> 4) Delete Student Recored :
+     |    |_  This Feature use to delete a student for the database *(JSON File).
+     |    |_  * You can select the student by ID.
+     |
+     |-> 5) Display All Students Record :
+     |    |_  This Feature use to display all students recoreds.
+     |    |_  Display as ID, Full Name, Total and Grade.
+     |
+     |-> 6) Exit :
+     |    |_  This Feature use to exit from the program.
+     |
+     |-> 7) About :
+     |    |_  This Feature use to display this message.
+
+     ________________________________________  The END _______________________________________
