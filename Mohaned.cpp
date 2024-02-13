@@ -1,6 +1,6 @@
 #include "Mohaned.h"
 
-// start internal bodys:
+// start internal bodies:
 void Student::Internal::displayTable(vector<Student::StudentData> students,const int SIZE ) {
     /*
            ------------------------ The Documentation ------------------------
@@ -384,9 +384,9 @@ json Student::Internal::readFile() {
     }
     return data;
 }
-// end internal bodys. 
+// end internal bodies. 
 
-// start public bodys :
+// start public bodies :
 //1
 void Student::addNewStudent() {
 	/*
@@ -718,4 +718,4 @@ void Student::displayAbout() {
         }
     }
 }
-// end public bodys 
+// end public bodies
