@@ -6,20 +6,20 @@ and save it to the database `(JSON file)`.
 ## **Features :-**
 
 1) **Add a new student :**
-    - This Feature use for adding a new student recored to the database `(JSON File)`.
+    - This Feature use for adding a new student record to the database `(JSON File)`.
 2) **Search For a Student :**
     - This Feature use for searching for the student on the database `(JSON File)`.
     - You can search by name of student and the ID.
     - The name has a problem.
     - You can use ID it is trusted.
 3) **Edit Studetn Recored :**
-    - This Feature use for edit the recored of the student.
+    - This Feature use for edit the record of the student.
     - You can select the student by ID.
 4) **Delete Student Recored :**
     - This Feature use to delete a student for the database `(JSON File)`.
     - You can select the student by ID.
 5) **Display All Students Record :**
-    - This Feature use to display all students recoreds.
+    - This Feature use to display all students records.
     - Display as ID, Full Name, Total and Grade.
 6) **Exit :**
     - This Feature use to exit from the program.
