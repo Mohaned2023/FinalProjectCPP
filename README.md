@@ -2,7 +2,9 @@
 This program is a simple manegement program that manages student data
 and save it to the database `(JSON file)`.
 
-- ***NOTE:** `It is a simple program, it has a lot of problems.`*
+> [!NOTE]
+> It is a simple program, it has a lot of problems.
+
 ## **Features :-**
 
 1) **Add a new student :**
